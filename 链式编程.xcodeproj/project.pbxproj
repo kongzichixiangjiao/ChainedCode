@@ -14,6 +14,7 @@
 		DCC345901D41B76C00A3E8D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCC3458E1D41B76C00A3E8D6 /* LaunchScreen.storyboard */; };
 		DCC3459B1D41B76D00A3E8D6 /* ____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC3459A1D41B76D00A3E8D6 /* ____Tests.swift */; };
 		DCC345A61D41B76D00A3E8D6 /* ____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC345A51D41B76D00A3E8D6 /* ____UITests.swift */; };
+		DCC345B41D41B89400A3E8D6 /* Chained.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC345B31D41B89400A3E8D6 /* Chained.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DCC345A11D41B76D00A3E8D6 /* 链式编程UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "链式编程UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCC345A51D41B76D00A3E8D6 /* ____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "____UITests.swift"; sourceTree = "<group>"; };
 		DCC345A71D41B76D00A3E8D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCC345B31D41B89400A3E8D6 /* Chained.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chained.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				DCC345851D41B76C00A3E8D6 /* AppDelegate.swift */,
 				DCC345871D41B76C00A3E8D6 /* ViewController.swift */,
+				DCC345B31D41B89400A3E8D6 /* Chained.swift */,
 				DCC345891D41B76C00A3E8D6 /* Main.storyboard */,
 				DCC3458C1D41B76C00A3E8D6 /* Assets.xcassets */,
 				DCC3458E1D41B76C00A3E8D6 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCC345881D41B76C00A3E8D6 /* ViewController.swift in Sources */,
+				DCC345B41D41B89400A3E8D6 /* Chained.swift in Sources */,
 				DCC345861D41B76C00A3E8D6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
